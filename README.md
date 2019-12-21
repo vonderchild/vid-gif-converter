@@ -1,5 +1,5 @@
 # Video to gif converter
-> Python script to automate instagram actions
+> Python video to gif converter
 
 # Installation
 ```
