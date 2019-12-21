@@ -1,2 +1,13 @@
-# vid-gif-converter
-python gui program to convert video to gif
+# Video to gif converter
+> Python script to automate instagram actions
+
+# Installation
+```
+pip install imageio
+pip install imageio-ffmpeg
+```
+
+# Exectuion
+```
+python main.py
+```
