@@ -39,7 +39,7 @@ subMenu.add_command(label="Exit", command=root.destroy)
 
 def about_us():
     tkinter.messagebox.showinfo("About Us",
-                                "This video to gif converter was built using Python 3.7 \ngithub.com/wonder-child")
+                                "This video to gif converter was built using Python 3.7 \ngithub.com/vonderchild")
 
 
 subMenu = Menu(menuBar, tearoff=0)
